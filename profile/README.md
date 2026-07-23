@@ -45,7 +45,7 @@ Lean Code Box 关注实用、可靠的软件。
 
 <br>
 
-[![GooseForum interface preview](https://github.com/leancodebox/assert/blob/main/gooseforum-readme-poster.png?raw=true)](https://gooseforum.online)
+[![GooseForum interface preview](https://github.com/leancodebox/assert/blob/main/gooseforum-readme-poster.webp?raw=true)](https://gooseforum.online)
 
 ## Projects
 
