@@ -53,7 +53,6 @@ Lean Code Box 关注实用、可靠的软件。
 | --- | --- | --- |
 | [GooseForum](https://github.com/leancodebox/GooseForum) | 易于部署、自托管的现代论坛系统 | Go · Vue 3 · TypeScript |
 | [Rooster](https://github.com/leancodebox/rooster) | 支持进程守护、定时任务和 Web 控制台的任务管理工具 | Go · React · Fyne |
-| [rooster-desktop](https://github.com/leancodebox/rooster-desktop) | Rooster 的跨平台桌面端实现 | Go · Fyne |
 | [dbhelper](https://github.com/leancodebox/dbhelper) | 面向 Go 项目的数据库辅助工具 | Go |
 | [fyneMiniProgram](https://github.com/leancodebox/fyneMiniProgram) | 使用 Fyne 探索跨平台桌面应用 | Go · Fyne |
 
